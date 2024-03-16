@@ -28,8 +28,8 @@ body {
 .photo{
     width:290px;
     height: 245px;
-    margin-left: 5px;
-    margin-top: 45px;
+    margin-left: 25px;
+    margin-top: 25px;
 }
 .muss{
     width: 340px;
@@ -39,11 +39,9 @@ body {
     left: 85px;
     background-color: #F7F7FA;
     color:  #515076;
-    
-
 }
 .text{
-    margin-left: 10px ;
+    margin-left: 25px ;
 }
 .textColor{
    color:  #A5A3B9; 
@@ -94,6 +92,6 @@ body {
     background-color: #F7F7FA;
     color:  #515076;
 }
-.li{
+#il{
     list-style: none;
 }
