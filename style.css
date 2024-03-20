@@ -14,11 +14,7 @@ body{
     padding: 0px;
     font-weight: 400;
 }
-.text span{
-    display: inline-block; /* Делаем span блочным элементом */
-    margin: 0 25px; /* Устанавливаем отступы слева и справа */
-    word-wrap: break-word; /* Разрыв слов при переносе текста */
-}
+
 .muss{
     list-style: none;
     background-color:  #F7F7FA;
