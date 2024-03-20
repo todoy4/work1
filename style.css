@@ -1,4 +1,90 @@
+body{
+    font-family: Arial, sans-serif; ;
+    font-size: 13px;
+    width: 1280px;
+    height: 1715px;
+}
 
+.title{
+    font-size: 70px;
+    color: #515076;
+    line-height: 78px;
+    margin-top: 220px;
+    text-align: center;
+    padding: 0px;
+    font-weight: 400;
+}
+.text span{
+    display: inline-block; /* Делаем span блочным элементом */
+    margin: 0 25px; /* Устанавливаем отступы слева и справа */
+    word-wrap: break-word; /* Разрыв слов при переносе текста */
+}
+.muss{
+    list-style: none;
+    background-color:  #F7F7FA;
+    width: 340px;
+    height: 573px;
+}
+.textColor{
+    color: #A5A3B9;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 25px;
+}
+.photo{
+    width:290px;
+    height: 245px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.product{
+    color: #515076;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-left: 25px;
+
+}
+.text{
+    color: #515076;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-left: 25px;
+}
+.sell{
+    color:#515076;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 25px;
+
+}
+.price{
+    color:#515076;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 145px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 @font-face {
     font-family: 'Montserrat';
     src: url('path/to/montserrat.woff2') format('woff2'),
@@ -17,14 +103,6 @@ body {
     font-family: 'Montserrat', sans-serif;
  }
  
-
-.product{
-    margin-top: 220px;
-    text-align: center;
-    font-size: 70px;
-    color: #515076;
-    
-}
 .photo{
     width:290px;
     height: 245px;
@@ -95,3 +173,4 @@ body {
 #il{
     list-style: none;
 }
+*/
