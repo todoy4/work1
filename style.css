@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, sans-serif; ;
+    font-family: Arial, sans-serif;
     font-size: 13px;
     width: 1280px;
     height: 1715px;
@@ -15,20 +15,20 @@ body{
     font-weight: 400;
 }
 
-.muss{
+.product-cards{
     list-style: none;
-    background-color:  #F7F7FA;
+    background-color: #F7F7FA;
     width: 340px;
     height: 573px;
 }
-.textColor{
+.discription{
     color: #A5A3B9;
     font-size: 12px;
     font-weight: 400;
     line-height: 24px;
-    margin-left: 25px;
+    margin:  5px 0px 15px 0px;
 }
-.photo{
+.product-photo{
     width:290px;
     height: 245px;
     margin-left: 25px;
@@ -49,6 +49,10 @@ body{
     line-height: 18px;
     margin-left: 25px;
 }
+.product-sell{
+    margin-left: 25px;
+}
+
 .sell{
     color:#515076;
     font-size: 20px;
@@ -64,3 +68,4 @@ body{
     line-height: 24px;
     margin-left: 145px;
 }
+
