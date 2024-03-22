@@ -81,7 +81,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     list-style-type: none;
-    gap: 45px;
+    gap: 35px;
     justify-content: center;
 }
 
