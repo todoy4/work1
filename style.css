@@ -7,7 +7,7 @@
 }
 
 body{
-    font-family:  "Montserrat", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 13px;
     line-height: 18px;
 }
@@ -40,7 +40,7 @@ body{
 }
 
 .product-photo{
-    width:290px;
+    width: 290px;
     height: 245px;
     margin-left: 25px;
     margin-top: 25px;
@@ -76,7 +76,7 @@ body{
 .price{
     display: inline-block;
     margin-left: 170px;
-    padding-bottom: 15px ;
+    padding-bottom: 15px;
 }
 
 .product-cards-all{
